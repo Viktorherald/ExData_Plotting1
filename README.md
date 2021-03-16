@@ -1,3 +1,8 @@
+## Notes from Assignment Author
+
+The data is downloaded, filtered to specified date, and mutated to add another DateTime row with "load_n_filter_data.R" script 
+
+
 ## Introduction
 
 This assignment uses data from
